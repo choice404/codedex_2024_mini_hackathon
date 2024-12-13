@@ -1,0 +1,11 @@
+{
+  "name": "codedex_2024MiniHackathon",
+  "version": "0.0.0",
+  "description": "My submission to the Codedex 2024 Mini Hackathon focusing on creating retro 90's themed websites!",
+  "main": "index.js",
+  "scripts": {
+    "test": "codedex_2024MiniHackathon_test"
+  },
+  "author": "Choice404",
+  "license": "ISC"
+}

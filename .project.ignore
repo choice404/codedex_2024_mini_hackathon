@@ -1,0 +1,10 @@
+[files]
+README.md
+.project*
+.gitignore
+.env
+
+[directories]
+.git
+tools
+node_modules
